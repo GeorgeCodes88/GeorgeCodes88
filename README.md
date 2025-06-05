@@ -1,16 +1,37 @@
-## Hi there 👋
+# GeorgeCodes404
 
-<!--
-**GeorgeCodes88/GeorgeCodes88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey — I'm George. Minty to some.  
+I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Then I break it. Then I fix it. That’s the cycle, baby.
 
-Here are some ideas to get you started:
+> “I write code, call myself a dumbass for 15 minutes, fix it, and call it a good day.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ 3 years of building, breaking, and learning  
+📱 Still beefing with mobile breakpoints, but we’re getting there  
+🎯 Clean layouts, fast sites, and code that *works*  
+💼 Currently freelancing + building my portfolio + trying not to scream at Flexbox
+
+---
+
+## 🚀 Projects I'm Proud Of
+
+- [📖 Blog Site](https://github.com/GeorgeCodes404/blog-project) — my cleanest layout yet
+- [📱 JS Mini App](https://github.com/GeorgeCodes404/js-mini-app) — quick, useful, and fun
+- [💼 Portfolio Site](https://GeorgeCodes404.github.io/portfolio-site) — you're looking at it (or should be 👀)
+
+---
+
+## 🧭 Let’s Connect
+
+- 🌍 [Portfolio](https://GeorgeCodes404.github.io) — live demos + contact info  
+- 🎯 [Fiverr](https://fiverr.com/GeorgeCodes404) — hire me for clean, responsive sites  
+- 🖤 [Spotify](https://open.spotify.com/playlist/7bOBP8h9mjDitvvt95YPEx?si=463e99a398e042aa&pt=8ef72fc65a6c58528cf3eb37f0777c58) — coding fuel  
+
+---
+
+## 🧠 Bonus Stats
+
+- Languages: HTML, CSS, JS  
+- Tools: VS Code, Git, Bootstrap, Netlify, GitHub Pages  
+- Backend: Dipping my toes into Node, Express, and Supabase  
+- Vibe: Chill. Creative. Occasionally chaotic. Always learning.
+
