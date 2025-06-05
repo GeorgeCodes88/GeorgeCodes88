@@ -22,7 +22,7 @@ I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Th
 
 ## 🧭 Let’s Connect
 
-- 🌍 [Portfolio](https://GeorgeCodes404.github.io) — live demos + contact info  
+- 🌍 [LinkedIn]([https://GeorgeCodes404.github.io](https://www.linkedin.com/in/giorgitskhvaradze/)) — professional profile + contact info  
 - 🎯 [Fiverr](https://fiverr.com/GeorgeCodes404) — hire me for clean, responsive sites  
 - 🖤 [Spotify](https://open.spotify.com/playlist/7bOBP8h9mjDitvvt95YPEx?si=463e99a398e042aa&pt=8ef72fc65a6c58528cf3eb37f0777c58) — coding fuel  
 
@@ -30,8 +30,8 @@ I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Th
 
 ## 🧠 Bonus Stats
 
-- Languages: HTML, CSS, JS  
-- Tools: VS Code, Git, Bootstrap, Netlify, GitHub Pages  
-- Backend: Dipping my toes into Node, Express, and Supabase  
+- Languages: HTML, CSS, JS, React 
+- Tools: VS Code, Git, Bootstrap, GitHub Pages  
+- Backend: Dipping my toes into Node, Express, and SQL
 - Vibe: Chill. Creative. Occasionally chaotic. Always learning.
 
