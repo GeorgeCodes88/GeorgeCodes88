@@ -14,6 +14,7 @@ I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Th
 
 ## 🚀 Projects I'm Proud Of
 
+- [🧮 Calculator App](https://github.com/GeorgeCodes88/Calculator-App) — first private project
 - [📖 Blog Site](https://github.com/GeorgeCodes404/blog-project) — my cleanest layout yet
 - [📱 JS Mini App](https://github.com/GeorgeCodes404/js-mini-app) — quick, useful, and fun
 - [💼 Portfolio Site](https://GeorgeCodes404.github.io/portfolio-site) — you're looking at it (or should be 👀)
