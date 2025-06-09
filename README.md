@@ -1,4 +1,4 @@
-# GeorgeCodes404
+# GeorgeCodes88
 
 Hey — I'm George. Minty to some. 
 I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Then I break it. Then I fix it. That’s the cycle, baby.
