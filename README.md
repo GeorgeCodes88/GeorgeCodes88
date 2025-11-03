@@ -6,9 +6,7 @@ I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Th
 > “I write code, call myself a dumbass for 15 minutes, fix it, and call it a good day.”
 
 🛠️ 5 years of building, breaking, and learning  
-📱 Still beefing with mobile breakpoints, but we’re getting there  
-🔍 Addicted SEO enthusiast
-🎯 Clean layouts, fast sites, and code that *works*  
+🎯 Clean layouts, fast sites, and code that works (hopefully)
 💼 Currently freelancing + building my portfolio + trying not to scream at Flexbox
 
 ---
@@ -16,9 +14,7 @@ I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Th
 ## 🚀 Projects I'm Proud Of
 
 - [🧮 Calculator App](https://github.com/GeorgeCodes88/Calculator-App) — my first solo project; basic, but where it all began 
-- [📖 Blog Site](https://github.com/GeorgeCodes404/blog-project) —  clean, minimal, and responsive — my best layout work so far
 - [🎬 Movie App](https://github.com/GeorgeCodes88/Movie-App) — search and discover cinematic gems, powered by TMDB
-- [💼 Portfolio Site](https://GeorgeCodes404.github.io/portfolio-site) — you're looking at it (or should be 👀)
 
 ---
 
@@ -35,7 +31,6 @@ I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Th
 ## 🧠 Bonus Stats
 
 - Languages: HTML, CSS, JS, React.
-- Tools: VS Code, Git, Bootstrap.
 - Backend: Dipping my toes into Node, Express, and SQL.
 - Vibe: Chill. Creative. Occasionally chaotic. Always learning.
 
