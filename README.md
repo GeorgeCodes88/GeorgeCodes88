@@ -5,7 +5,7 @@ I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Th
 
 > “I write code, call myself a dumbass for 15 minutes, fix it, and call it a good day.”
 
-🛠️ 3 years of building, breaking, and learning  
+🛠️ 5 years of building, breaking, and learning  
 📱 Still beefing with mobile breakpoints, but we’re getting there  
 🔍 Addicted SEO enthusiast
 🎯 Clean layouts, fast sites, and code that *works*  
