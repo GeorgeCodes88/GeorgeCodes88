@@ -1,6 +1,6 @@
 # GeorgeCodes88
 
-Hey — I'm George. Minty to some. 
+Hi! I'm George.
 I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Then I break it. Then I fix it. That’s the cycle, baby.
 
 > “I write code, call myself a dumbass for 15 minutes, fix it, and call it a good day.”
