@@ -5,9 +5,9 @@ I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Th
 
 > “I write code, call myself a dumbass for 15 minutes, search the world wide web on why my code is bad, fix it, and call it a good day.”
 
-🛠️ 5 years of building, breaking, and learning (i dont sleep at night when my app has bugs)
-🎯 Clean layouts, fast sites, and code that works (hopefully)
-💼 Currently freelancing + building my portfolio + trying not to scream at Flexbox (failing)
+🛠️ 5 years of building, breaking, and learning (i dont sleep at night when my app has bugs)  
+🎯 Clean layouts, fast sites, and code that works (hopefully)  
+💼 Currently freelancing + building my portfolio + trying not to scream at Flexbox (failing)  
 
 ---
 
