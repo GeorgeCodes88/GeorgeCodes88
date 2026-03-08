@@ -13,8 +13,9 @@ I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Th
 
 ## 🚀 Projects I'm Proud Of
 
-- [🧮 Calculator App](https://github.com/GeorgeCodes88/Calculator-App) — my first solo project; basic, but where it all began 
-- [🎬 Movie App](https://github.com/GeorgeCodes88/Movie-App) — search and discover cinematic gems, powered by TMDB
+- [🧮 Calculator App](https://github.com/GeorgeCodes88/Calculator-App) - my first solo project; basic, but where it all began 
+- [🎬 Movie App](https://github.com/GeorgeCodes88/Movie-App) - search and discover cinematic gems, powered by TMDB
+- [🪝Custom React UseState Hook](https://github.com/GeorgeCodes88/Custom-UseState-Hook) - custom useState hook i made
 
 ---
 
@@ -27,7 +28,8 @@ I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Th
 
 ## 🧠 Bonus Stats
 
-- Languages: HTML, CSS, JS, React.
+- Languages: HTML, CSS, JS, Python
+- Libraries / Frameworks: React, React Router, Redux
 - Backend: Dipping my toes into Node, Express, and SQL.
 - Vibe: Chill. Creative. Occasionally chaotic. Always learning. Never asleep (the city needs me)
 
