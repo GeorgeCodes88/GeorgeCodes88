@@ -1,13 +1,13 @@
 # GeorgeCodes88
 
 Hi! I'm George.
-I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Then I break it. Then I fix it. That’s the cycle, baby.
+I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Then I break it (sometimes intentionally). Then I fix it. That’s the cycle, baby.
 
-> “I write code, call myself a dumbass for 15 minutes, fix it, and call it a good day.”
+> “I write code, call myself a dumbass for 15 minutes, search the world wide web on why my code is bad, fix it, and call it a good day.”
 
-🛠️ 5 years of building, breaking, and learning  
+🛠️ 5 years of building, breaking, and learning (i dont sleep at night when my app has bugs)
 🎯 Clean layouts, fast sites, and code that works (hopefully)
-💼 Currently freelancing + building my portfolio + trying not to scream at Flexbox
+💼 Currently freelancing + building my portfolio + trying not to scream at Flexbox (failing)
 
 ---
 
@@ -22,9 +22,6 @@ I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Th
 
 - 🌍 [LinkedIn](https://www.linkedin.com/in/giorgitskhvaradze/) — professional profile + contact info  
 - 🎯 [Fiverr](https://fiverr.com/GeorgeCodes404) — hire me for clean, responsive sites  
-- 🎧 [Spotify](https://open.spotify.com/playlist/7bOBP8h9mjDitvvt95YPEx?si=463e99a398e042aa&pt=8ef72fc65a6c58528cf3eb37f0777c58) — coding fuel 
-- ❤️
-[PayPal](https://www.paypal.me/GeorgeCodes88) - help me pay "taxes"
 
 ---
 
@@ -32,5 +29,5 @@ I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Th
 
 - Languages: HTML, CSS, JS, React.
 - Backend: Dipping my toes into Node, Express, and SQL.
-- Vibe: Chill. Creative. Occasionally chaotic. Always learning.
+- Vibe: Chill. Creative. Occasionally chaotic. Always learning. Never asleep (the city needs me)
 
