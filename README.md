@@ -36,10 +36,14 @@ I use GitHub Star Lists to keep my projects organized and my favorite tools with
 | :--- | :--- | :--- |
 | **[🪝 Custom Hooks](https://github.com/stars/GeorgeCodes88/lists/custom-hooks-react)** | React internal logic and state engines. | `Thriving` |
 | **[🛠️ Code Snippets](https://github.com/stars/GeorgeCodes88/lists/code-snippets)** | Reusable components and logic fragments. | `Flourishing` |
-| **[⚙️ Neovim Setup](https://github.com/stars/GeorgeCodes88/lists/neovim)** | Personalized IDE config (Catppuccin themed). | `Essential` |
+| **[⚙️ Neovim Setup](https://github.com/stars/GeorgeCodes88/lists/neovim)** | Personalized IDE config (i believe in catppuccin supiriority). | `Essential` |
+| **[⚙️ Linux Mint Setup](https://github.com/stars/GeorgeCodes88/lists/linux-mint)** | Personalized Linux Mint config. | `Essential - 2026 Remaster` |
+| **[📚 Book Follow Alongs](https://github.com/stars/GeorgeCodes88/lists/book-follow-alongs)** | My attempt at being literate and reading books. | `Failling` |
+| **[📁 Personal Projects]()** | My main projects. | `Getting Better` |
 | **[🐍 Python Projects](https://github.com/stars/GeorgeCodes88/lists/python)** | Automation and Python experiments. | `Operational` |
 | **[☕ Java](https://github.com/stars/GeorgeCodes88/lists/java)** | Compiler engineering and Minecraft modding experiment. | `Under Construction` |
 | **[🧪 Playgrounds](https://github.com/stars/GeorgeCodes88/lists/personal-playgrounds)** | Experimental chaos. Enter at your own risk. | `Beyond repair` |
+| **[🎨 Favourite Theme](https://github.com/stars/GeorgeCodes88/lists/themes)** | I use catpuccin guys | `Shameless advertisement` |
 
 ---
 
@@ -57,6 +61,8 @@ I use GitHub Star Lists to keep my projects organized and my favorite tools with
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
 ---
@@ -65,14 +71,19 @@ I use GitHub Star Lists to keep my projects organized and my favorite tools with
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-1A1A1A?style=for-the-badge&logo=gnu&logoColor=white)
 
 ### 📊 Stats
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeCodes88&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeCodes88&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GeorgeCodes88&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Error fetching stats :c"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeCodes88&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Error fetching stats :c"/>
+</p>
 
 ---
 ### 💬 Let's chat!
-> Whether it's about a freelance project, a bug that's keeping you up at night, or why NeoVim is superior to VS Code—my inbox is open.
+> Whether it's about a freelance project, a bug that's keeping you up at night my inbox is open to everyone ❤️.
 
