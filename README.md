@@ -1,89 +1,202 @@
-# GeorgeCodes88
+```bash
+> sign in
 
-Hi! I'm George.
-I build web stuff with HTML, CSS, and JavaScript. Sometimes React or Express. Then I break it (sometimes intentionally). Then I fix it. That’s the cycle, baby.
+welcome Visitor
 
-Vibe: Chill. Creative. Occasionally chaotic. Always learning. Never asleep (the city needs me)
+> ls
+```
 
-> “I write code, call myself a dumbass for 15 minutes, search the world wide web on why my code is bad, fix it, and call it a good day.”
-
-🛠️ 5 years of building, breaking, and learning (i dont sleep at night when my app has bugs)  
-🎯 Clean layouts, fast sites, and code that works (hopefully)  
-💼 Currently freelancing + building my portfolio + trying not to scream at Flexbox (failing)  
-
----
-
-## 🚀 Projects I'm Proud Of
-
-- [🧮 Calculator App](https://github.com/GeorgeCodes88/Calculator-App) - my first solo project; basic, but where it all began 
-- [🎬 Movie App](https://github.com/GeorgeCodes88/Movie-App) - search and discover cinematic gems, powered by TMDB
-- [🪝Custom React UseState Hook](https://github.com/GeorgeCodes88/Custom-UseState-Hook) - custom useState hook i made
-
----
-
-## 🧭 Let’s Connect
-
-- 🌍 [LinkedIn](https://www.linkedin.com/in/giorgitskhvaradze/) - professional profile + contact info  
-- 🎯 [Fiverr](https://fiverr.com/GeorgeCodes404) - hire me for clean, responsive sites  
-
----
-
-## 📂 Curated Collections
-
-I use GitHub Star Lists to keep my projects organized and my favorite tools within reach.
-
-| Collection | Description | Status |
-| :--- | :--- | :--- |
-| **[🪝 Custom Hooks](https://github.com/stars/GeorgeCodes88/lists/custom-hooks-react)** | React internal logic and state engines. | `Thriving` |
-| **[🛠️ Code Snippets](https://github.com/stars/GeorgeCodes88/lists/code-snippets)** | Reusable components and logic fragments. | `Flourishing` |
-| **[⚙️ Neovim Setup](https://github.com/stars/GeorgeCodes88/lists/neovim)** | Personalized IDE config (i believe in catppuccin supiriority). | `Essential` |
-| **[⚙️ Linux Mint Setup](https://github.com/stars/GeorgeCodes88/lists/linux-mint)** | Personalized Linux Mint config. | `Essential - 2026 Remaster` |
-| **[📚 Book Follow Alongs](https://github.com/stars/GeorgeCodes88/lists/book-follow-alongs)** | My attempt at being literate and reading books. | `Failling` |
-| **[📁 Personal Projects]()** | My main projects. | `Getting Better` |
-| **[🐍 Python Projects](https://github.com/stars/GeorgeCodes88/lists/python)** | Automation and Python experiments. | `Operational` |
-| **[☕ Java](https://github.com/stars/GeorgeCodes88/lists/java)** | Compiler engineering and Minecraft modding experiment. | `Under Construction` |
-| **[🧪 Playgrounds](https://github.com/stars/GeorgeCodes88/lists/personal-playgrounds)** | Experimental chaos. Enter at your own risk. | `Beyond repair` |
-| **[🎨 Favourite Theme](https://github.com/stars/GeorgeCodes88/lists/themes)** | I use catpuccin guys | `Shameless advertisement` |
-
----
-
-## 🧠 Tech Stack
-
-### **Languages & Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-### **Backend & Tools**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-
----
-
-## Currently Learning (or want to learn)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-1A1A1A?style=for-the-badge&logo=gnu&logoColor=white)
-
-### 📊 Stats
+<h1 align="center">GeorgeCodes88</h1>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GeorgeCodes88&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Error fetching stats :c"/>
+  <code>Full Stack Developer</code> • <code>guy who fights flexbox professionally</code>
+</p>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeCodes88&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Error fetching stats :c"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&speed=1&color=00BFFF&center=true&vCenter=true&width=900&lines=React%2C%20Linux%2C%20Neovim%2C%20occasional%20sleep%20deprivation%2C%20and%20questionable%20design%20decisions" />
 </p>
 
 ---
-### 💬 Let's chat!
-> Whether it's about a freelance project, a bug that's keeping you up at night my inbox is open to everyone ❤️.
 
+```bash
+> whoami
+
+George
+Full Stack Developer
+React enjoyer
+Backend survivor (currently under investigation)
+Catppuccin believer
+```
+```bash
+> curl ipinfo.io
+
+{
+  "city": "Tbilisi",
+  "region": "Tbilisi",
+  "country": "GE",
+  "timezone": "Asia/Tbilisi",
+}
+```
+
+```bash
+> current_status
+
+Learning backend development...
+Trying to understand why Express behaves like that...
+Building projects at unreasonable hours
+```
+
+---
+
+```bash
+> cd ~/featured-projects
+> ls
+
+```
+
+### 🎬 [Movie App](https://github.com/GeorgeCodes88/Movie-App)
+A React movie discovery app powered by TMDB.
+
+```bash
+git clone https://github.com/GeorgeCodes88/Movie-App
+```
+---
+
+### 🧮 [Calculator App](https://github.com/GeorgeCodes88/Calculator-App) 
+My first solo project.
+
+The code may be questionable.  
+The memories are not.
+```bash
+> git clone https://github.com/GeorgeCodes88/Calculator-App
+```
+
+---
+
+### 🪝 [Custom React UseState Hook](https://github.com/GeorgeCodes88/Custom-UseState-Hook)
+Rebuilt React’s useState hook because curiosity is a dangerous thing.
+
+```bash
+> git clone https://github.com/GeorgeCodes88/Custom-UseState-Hook
+```
+
+---
+
+```bash
+> cd ~/tech-stack
+> ls
+
+frontend:
+  - React
+  - JavaScript
+  - HTML
+  - CSS
+  - Redux
+
+backend:
+  - Node.js
+  - Express
+  - Firebase
+  - Supabase
+
+currently_learning:
+  - Backend architecture
+  - Better React patterns
+  - APIs
+  - Docker
+
+daily_environment:
+  os: Linux Mint
+  editor: Neovim
+  terminal: Kitty
+  theme: Catppuccin
+```
+
+---
+```bash
+> fastfetch
+
+OS        → Linux Mint
+Editor    → Neovim
+Shell:    → zsh
+Terminal  → Kitty
+Theme     → Catppuccin
+Browser   → Brave
+Music     → "he ate my heart he a a ate my heart"
+```
+
+---
+```bash
+> cd ~/collections
+> ls
+
+```
+
+| Collection | Description |
+| :--- | :--- 
+| **[🪝 Custom Hooks](https://github.com/stars/GeorgeCodes88/lists/custom-hooks-react)** | React internal logic and state engines. 
+| **[🛠️ Code Snippets](https://github.com/stars/GeorgeCodes88/lists/code-snippets)** | Reusable components and logic fragments. 
+| **[⚙️ Neovim Setup](https://github.com/stars/GeorgeCodes88/lists/neovim)** | Personalized IDE config (i believe in catppuccin supiriority).
+| **[⚙️ Linux Mint Setup](https://github.com/stars/GeorgeCodes88/lists/linux-mint)** | Personalized Linux Mint config.
+| **[📚 Book Follow Alongs](https://github.com/stars/GeorgeCodes88/lists/book-follow-alongs)** | My attempt at being literate and reading books. 
+| **[📁 Personal Projects]()** | My main projects. 
+| **[🐍 Python Projects](https://github.com/stars/GeorgeCodes88/lists/python)** | Automation and Python experiments. 
+| **[☕ Java](https://github.com/stars/GeorgeCodes88/lists/java)** | Compiler engineering and Minecraft modding experiment. 
+| **[🧪 Playgrounds](https://github.com/stars/GeorgeCodes88/lists/personal-playgrounds)** | Experimental chaos. Enter at your own risk. 
+| **[🎨 Favourite Theme](https://github.com/stars/GeorgeCodes88/lists/themes)** | I use catpuccin guys 
+
+
+---
+```bash
+> cd ~/Music
+> ls
+
+```
+
+<p>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31jjjahnbyytwnh2jkyi45c4ne4a&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jjjahnbyytwnh2jkyi45c4ne4a&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  </a>
+</p>
+
+---
+```bash
+> cd ~/contact-info
+> ls
+
+linkedin  fiverr  gmail discord
+
+> contact-info --open linkedin
+linkedin: https://www.linkedin.com/in/giorgitskhvaradze
+
+> contact-info --open fiverr
+fiverr: https://www.fiverr.com/georgecodes88
+
+> contact-info --open gmail
+gmail: georgecodes88@gmail.com)
+
+> contact-info --open discord
+discord: lminty)
+```
+```bash
+> status --availability
+
+✔ open to freelance work
+✔ open to internships
+✖ not open to unpaid “quick tasks”
+```
+
+```bash
+> final_message
+
+Still learning.
+Still building.
+Still debugging.
+
+Flexbox won today.
+But tomorrow is another battle.
+
+> cinnamon-session-quit --logout --force
+
+goodbye Visitor
+```
