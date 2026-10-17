@@ -25,7 +25,7 @@ George
 Full Stack Developer
 React enjoyer
 Backend survivor (currently under investigation)
-Catppuccin believer
+Gruvbox enjoyer
 ```
 ```bash
 > curl ipinfo.io
@@ -44,6 +44,7 @@ Catppuccin believer
 Learning backend development...
 Trying to understand why Express behaves like that...
 Building projects at unreasonable hours
+C# is my own personal hell
 ```
 
 ---
@@ -104,12 +105,13 @@ currently_learning:
   - Better React patterns
   - APIs
   - Docker
+  - C#
 
 daily_environment:
   os: Linux Mint
   editor: Neovim
   terminal: Kitty
-  theme: Catppuccin
+  theme: Gruvbox
 ```
 
 ---
@@ -120,7 +122,7 @@ OS        → Linux Mint
 Editor    → Neovim
 Shell:    → zsh
 Terminal  → Kitty
-Theme     → Catppuccin
+Theme     → Gruvbox
 Browser   → Brave
 Music     → "he ate my heart he a a ate my heart"
 ```
@@ -176,14 +178,13 @@ fiverr: https://www.fiverr.com/georgecodes88
 gmail: georgecodes88@gmail.com)
 
 > contact-info --open discord
-discord: lminty)
+discord: lminty
 ```
 ```bash
 > status --availability
 
 ✔ open to freelance work
 ✔ open to internships
-✖ not open to unpaid “quick tasks”
 ```
 
 ```bash
