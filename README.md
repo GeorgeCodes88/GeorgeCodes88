@@ -138,7 +138,6 @@ Music     → "he ate my heart he a a ate my heart"
 | :--- | :--- 
 | **[🪝 Custom Hooks](https://github.com/stars/GeorgeCodes88/lists/custom-hooks-react)** | React internal logic and state engines. 
 | **[🛠️ Code Snippets](https://github.com/stars/GeorgeCodes88/lists/code-snippets)** | Reusable components and logic fragments. 
-| **[⚙️ Neovim Setup](https://github.com/stars/GeorgeCodes88/lists/neovim)** | Personalized IDE config (i believe in catppuccin supiriority).
 | **[⚙️ Linux Mint Setup](https://github.com/stars/GeorgeCodes88/lists/linux-mint)** | Personalized Linux Mint config.
 | **[📚 Book Follow Alongs](https://github.com/stars/GeorgeCodes88/lists/book-follow-alongs)** | My attempt at being literate and reading books. 
 | **[📁 Personal Projects]()** | My main projects. 
